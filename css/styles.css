@@ -1,0 +1,110 @@
+body {
+    font-family: "Roboto";
+    background: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+header {
+    background: #FFFFFF;
+}
+
+
+
+.header-nav-logo {
+    color: #2E2F42;
+    font-family: "Raleway";
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.16;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.web {
+    color: #4D5AE5;
+}
+
+.header-nav-link {
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+}
+
+.header-address-link {
+    color: #434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    font-style: normal;
+}
+
+.effective-solutions-text {
+    color: #FFFFFF;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    width: 496px;
+    height: 120px;
+    top: 260px;
+    left: 472px;
+}
+
+.effective-solutions {
+    background-color: #2E2F42;
+}
+
+.button {
+    background: #4D5AE5;
+    color: #FFFFFF;
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+    display: inline-flex;
+    padding: 16px 32px;
+    align-items: flex-start;
+    gap: 10px;
+}
+
+.our-qualities {
+    background: #FFF;
+}
+
+.our-qualities-text {
+    color:#2E2F42;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.20;
+    letter-spacing: 0.02em;
+}
+
+.our-qualities-paragraph {
+    color:#434455;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+}
+
+.our-team-basic-text {
+    color: #2E2F42;
+    text-align: center;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;   
+}
+
+.our-team {
+    background: #F4F4FD;
+}
