@@ -1,6 +1,7 @@
 body {
     font-family: "Roboto", sans-serif;
     color: #434455;
+    background-color: #FFFFFF;
 }
 
 ul {
@@ -35,8 +36,13 @@ header {
     text-decoration: none;
 }
 
-.header-nav-link:hover .header-nav-link:focus {
+.header-nav-link:hover 
+.header-nav-link:focus {
     color: #404bbf;
+}
+
+.header-address {
+    font-style: normal;
 }
 
 .header-address-link {
@@ -56,6 +62,7 @@ header {
 
 .effective-solutions-text {
     color: #FFFFFF;
+    text-align: center;
     font-size: 56px;
     font-weight: 700;
     line-height: 60px;
@@ -80,7 +87,6 @@ header {
 
 .button:hover .button:focus {
     background-color: #404BBF;
-    color: #ffffff;
 }
 
 .our-qualities {
@@ -108,11 +114,13 @@ header {
 
 .our-team-basic-text {
     color: #2E2F42;
+    text-align: center;
     font-size: 36px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.02em; 
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
 }
 
 .our-team-item {
@@ -146,6 +154,7 @@ header {
 
 .our-portfolio-basic-text {
     color: #2E2F42;
+    text-align: center;
     font-size: 36px;
     font-weight: 700;
     line-height: 1.11;
@@ -187,6 +196,11 @@ footer {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-decoration: none;
+    text-transform: uppercase
+}
+
+.footer-studio {
+    color: #f4f4fd;
 }
 
 .footer-paragraph {
