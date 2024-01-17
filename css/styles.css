@@ -127,11 +127,6 @@ header {
     background-color: #FFFFFF;
 }
 
-.our-team-img {
-    width: 264px;
-    height: 260px;
-}
-
 .our-team-text {
     color: #2E2F42;
     font-size: 20px;
@@ -162,11 +157,10 @@ header {
     text-transform: capitalize;
 }
 
-.our-portfolio-img {
-    width: 360px;
-    height: 300px;
-    flex-shrink: 0;
+.our-portfolio-paragraph {
+    
 }
+
 
 .our-portfolio-text {
     color: #2E2F42;
@@ -177,7 +171,7 @@ header {
 }
 
 .our-portfolio-paragraph {
-    color: var(--SLATE, #434455);
+    color: #434455;
     font-size: 16px;
     font-weight: 400;
     line-height: 1.5;
