@@ -1,5 +1,5 @@
 body {
-    font-family: "Roboto";
+    font-family: "Roboto" sans-serif;
     background: #FFFFFF;
 }
 
@@ -14,7 +14,7 @@ header {
 
 .header-nav-logo {
     color: #2E2F42;
-    font-family: "Raleway";
+    font-family: "Raleway" sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
@@ -151,7 +151,7 @@ footer {
 
 .footer-logo {
     color: #F4F4FD;
-    font-family: Raleway;
+    font-family: "Raleway" sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.16;
